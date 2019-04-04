@@ -1,0 +1,27 @@
+body {
+    margin: 50px;
+    padding: 0;
+  }
+  .header {
+    padding: 15px 0p;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: 'DIN PRO', sans-serif;
+    color: #171718;
+  }
+  
+  .linechart_path {
+    stroke-width: 3;
+    fill: none;
+  }
+  
+  .linechart_axis {
+    stroke: #1ae9aa
+  ;
+  }
+  
+  .linechart_area {
+    fill: #21ce99;
+    stroke: none;
+    opacity: .4;
+  }
